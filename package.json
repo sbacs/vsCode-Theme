@@ -15,5 +15,9 @@
 			}
 		]
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sbacs/vsCode-Theme.git"
+	},
 	"icon": "./Kanye.jpg"
 }
