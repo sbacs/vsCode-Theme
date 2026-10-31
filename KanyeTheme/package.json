@@ -1,0 +1,19 @@
+{
+	"name": "theme",
+	"displayName": "Kanye theme",
+	"version": "0.0.1",
+	"publisher": "sbacs",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kanye theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kanye.json"
+			}
+		]
+	},
+	"icon": "./Kanye.jpg"
+}
